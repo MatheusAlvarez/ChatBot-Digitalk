@@ -36,8 +36,8 @@ O desafio proposto para este projeto era a criação de um widget. Neste widget,
 ## 🎨 Layout
 
 ### Widget
-![Widget1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/widget1.png) ➡
-![Widget2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/widget02.png) ➡
+![Widget1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/widget1.png)<br>
+![Widget2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/widget02.png)<br>
 ![Widget3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/widget03.png) 
 
 ### Widget em uma página externa
