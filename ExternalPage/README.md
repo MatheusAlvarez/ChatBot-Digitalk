@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+<h4 align="center"> 
+	🚧  ChatBot-Digitalk ♻️ Concluído 🚀 🚧
+</h4>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
 
-## Available Scripts
+## 💻 Sobre o projeto
 
-In the project directory, you can run:
+ChatBot-Digitalk é um projeto criado para o processo seletivo da Digitalk.
 
-### `npm start`
+O desafio proposto para este projeto era a criação de um widget. Neste widget, teríamos uma tela de boas-vindas e um chat-bot.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ⚙️ Funcionalidades
 
-### `npm test`
+- [x] Se o usuário não enviar mensagens dentro de 1 minuto o chat deve responder uma mensagem automaticamente.
+- [x] Se o usuário ficar inativo por 3 minutos o chat se encerra
+---
+## 🎨 Layout
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Widget em uma página externa
 
-### `npm run build`
+![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/desk01.png)
+![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/desk02.png)
+![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/main/assets/desk03.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Como executar o projeto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1 - Baixar o Projeto <br>
+2 - Instalar a pasta node_modules (npm install)<br>
+3 - Rodar o projeto (npm start)
 
-### `npm run eject`
+### Pré-requisitos
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🛠 Tecnologias
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-## Learn More
+#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+-   **[Styled-Component](https://styled-components.com/docs)**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### **Prototipação** ([Figma](https://www.figma.com/))
 
-### Code Splitting
+- **[Minha Prototipação](https://www.figma.com/file/J1zv4Q8hCFhxhuZE5XINxu/Prototipa%C3%A7%C3%A3o-desafio-Digitalk?t=9EYQVYnf9XIZWWZr-1)**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🦸 Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<a href="https://br.linkedin.com/in/matheus-maia-alvarez-">
+Matheus Maia Alvarez</a>
+ <br />
+ 
+[![Gmail Badge](https://img.shields.io/badge/-mthalvarez2005@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mthalvarez2005@gmail.com)](mailto:mthalvarez2005@gmail.com)
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📝 Licença
 
-### Advanced Configuration
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
